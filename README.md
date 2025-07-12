@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil GitHub!
+# Bem-vindo!
 
 Olá! Eu sou **Leandro**, um analista de sistemas com 15 anos de experiência. Recentemente, comecei a me aventurar no mundo da programação Python, criando diversos projetos pessoais que você encontrará aqui.
 
